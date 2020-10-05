@@ -1,0 +1,43 @@
+#image{
+max-width: 100%;
+display: block;
+height: auto;
+
+
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#tribute-info{
+
+margin-left: auto;
+margin-right: auto;
+}
+#dark{
+    color:red;
+}
+#tribute{
+    text-align:center;
+    color:red;
+}
+#tribute-info{
+    background-color: lightgray;
+}
+#img-caption{
+    color:black;
+    font-size: large;
+}
+h3{
+    font-size:30px;
+}
+
+    
+    
+
+  
+
+  
